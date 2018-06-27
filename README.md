@@ -1,0 +1,2 @@
+# HearstEmail
+Email template
